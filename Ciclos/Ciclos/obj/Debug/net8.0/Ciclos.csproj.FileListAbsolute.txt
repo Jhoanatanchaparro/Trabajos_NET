@@ -1,0 +1,14 @@
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\bin\Debug\net8.0\Ciclos.exe
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\bin\Debug\net8.0\Ciclos.deps.json
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\bin\Debug\net8.0\Ciclos.runtimeconfig.json
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\bin\Debug\net8.0\Ciclos.dll
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\bin\Debug\net8.0\Ciclos.pdb
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.AssemblyInfoInputs.cache
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.AssemblyInfo.cs
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.csproj.CoreCompileInputs.cache
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.dll
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\refint\Ciclos.dll
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.pdb
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\Ciclos.genruntimeconfig.cache
+C:\Users\dachaparro\source\repos\Ciclos\Ciclos\obj\Debug\net8.0\ref\Ciclos.dll
